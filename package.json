@@ -1,0 +1,29 @@
+{
+  "name": "gulp-critical-css",
+  "description": "Create seperate link tags for mediaquery",
+  "version": "1.0.0",
+  "homepage": "http://github.com/gokulkrishh/gulp-critical-css",
+  "repository": "git://github.com/gokulkrishh/gulp-critical-css.git",
+  "author": "Gokulkrishh <krishnangokul9@gmail.com>",
+  "main": "./index.js",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "^2.2.5",
+    "through": "^2.3.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7"
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/gokulkrishh/gulp-critical-css /raw/master/LICENSE"
+    }
+  ]
+}
